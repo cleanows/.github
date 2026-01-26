@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.hebergeur-image.fr/uploads/20251128/43b8fb3c09eee997c56cc373094800bc36868d23.png" alt="ZenBNB Logo" width="120" height="120">
+  <img src="https://avatars.githubusercontent.com/u/246091640?s=200&v=4" alt="ZenBNB Logo" width="120" height="120">
   <h1>ZenBNB</h1>
   <p><strong>La plateforme de référence pour le ménage des locations courte durée.</strong></p>
   
