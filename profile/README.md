@@ -123,5 +123,5 @@ En cas de problème critique (Prod down, faille de sécurité) :
 ---
 
 <div align="center">
-  <small>© 2025 ZenBNB. Tous droits réservés. Code propriétaire et confidentiel.</small>
+  <small>© 2025 Cleanows Tous droits réservés. Code propriétaire et confidentiel.</small>
 </div>
