@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/246091640?s=200&v=4" alt="ZenBNB Logo" width="120" height="120">
-  <h1>ZenBNB</h1>
+  <img src="https://avatars.githubusercontent.com/u/246091640?s=200&v=4" alt="Cleanows Logo" width="120" height="120">
+  <h1>Cleanows</h1>
   <p><strong>La plateforme de référence pour le ménage des locations courte durée.</strong></p>
   
-  <a href="https://zenbnb.fr">Site Web</a> • 
+  <a href="https://cleanows.fr">Site Web</a> • 
   <a href="#-architecture--repositories">Repositories</a> • 
   <a href="#-notre-stack-technique">Tech Stack</a> • 
   <a href="#-léquipe">L'Équipe</a>
@@ -20,7 +20,7 @@
 
 **"Vous louez, on s'occupe du reste."**
 
-ZenBNB construit la première **Marketplace Contrôlée** qui connecte instantanément les propriétaires de biens immobiliers (Airbnb/Booking) avec des Cleaners professionnels vérifiés.
+Cleanows construit la première **Marketplace Contrôlée** qui connecte instantanément les propriétaires de biens immobiliers (Airbnb/Booking) avec des Cleaners professionnels vérifiés.
 
 Notre défi technique est de combiner :
 1.  **Flexibilité** : Un système d'enchères encadrées (Smart Pricing).
