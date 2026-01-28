@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/246091640?s=200&v=4" alt="Cleanows Logo" width="120" height="120">
-  <h1>Cleanows</h1>
+  <h1>Cleanow's</h1>
   <p><strong>La plateforme de référence pour le ménage des locations courte durée.</strong></p>
   
   <a href="https://cleanows.fr">Site Web</a> • 
