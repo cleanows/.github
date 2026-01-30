@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://cleanows.fr/cleanows.svg" alt="Cleanows Logo" width="120" height="120">
+
   <h1>Cleanow's</h1>
   <p><strong>La plateforme de référence pour le ménage des locations courte durée.</strong></p>
   
