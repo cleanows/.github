@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cleanows/landing-page/main/public/logo_cleanows_horizontal.png" height="80">
+  <img src="/logo_cleanows_horizontal.png" height="80">
   <p style="margin-top: 20px;"><strong>La plateforme de référence pour le ménage des locations courte durée.</strong></p>
 
   <a href="https://cleanows.fr">Site Web</a> • 
