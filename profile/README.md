@@ -2,8 +2,8 @@
 <div align="center">
   <img src="https://cleanows.fr/logo_cleanows_horizontal.svg" height="60">
 </div>
-<div align="center">
-  <p style="margin-top: 50px;"><strong>La plateforme de référence pour le ménage des locations courte durée.</strong></p>
+<div align="center" style="margin-top: 50px;">
+  <p><strong>La plateforme de référence pour le ménage des locations courte durée.</strong></p>
 </div>
   <a href="https://cleanows.fr">Site Web</a> • 
   <a href="#-architecture--repositories">Repositories</a> • 
