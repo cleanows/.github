@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
   <a href="https://cleanows.fr/">
-    <img src="https://cleanows.fr/logo_cleanows_horizontal.svg" height="60">
+    <img src="https://cleanows.fr/logo_cleanows_horizontal.svg" height="50">
   <a>
 </div>
 <div align="center" style="margin-top: 50px;">
