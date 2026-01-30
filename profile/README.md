@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cleanows.fr/cleanows.svg" width="120" height="120">
+  <img src="https://github.com/cleanows/landing-page/blob/main/public/logo_cleanows_horizontal.svg" width="120" height="120">
 <img src="https://cleanows.fr/cleanows.svg" width="120" height="120">
 
 
